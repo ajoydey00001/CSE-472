@@ -4,3 +4,4 @@
 **Offline 03** -> Function Approximation with Neural Network and Backpropagation \
 **Offline 04** -> Principal component analysis (PCA) and Expectation-Maximization (EM) algorithm
 
+
